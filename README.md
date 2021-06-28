@@ -35,6 +35,18 @@ __Diseño:__
 ---
 ## 📺 Mis aplicaciones
 
+## 🔎 Mis estadisticas:
+<details>
+    <summary>🔎 Ver</summary>
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSebasRea&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSebasRea&show_icons=true&theme=tokyonight)
+
+<br />
+
+</details>
+
 ## 📱 Contactame:
 
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
